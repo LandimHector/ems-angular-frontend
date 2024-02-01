@@ -1,27 +1,37 @@
-# ApiFront
+<h2 align="center">
+Employee Management System using Angular  
+</h2>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+<p align="center">
+It's a simple CRUD system using Angular 
+</p>
 
-## Development server
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/LandimHector/ems-angular-frontend?color=brightgreen" />
+  <a href="https://github.com/LandimHector">
+    <img src="https://img.shields.io/badge/github-LandimHector-7159C1?logo=GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hectorlandim/">
+    <img src="https://img.shields.io/badge/linkedin-hectorlandim-blue?logo=linkedin"/>
+  </a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+    <img alt="Employees CRUD" src=".github/angular-frontend.png" />
+</p>
 
-## Code scaffolding
+## Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Node.js 20.10.0
 
-## Build
+## Install
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```
+npm install -g @angular/cli
+```
 
-## Running unit tests
+## Run
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+ng s
+```
